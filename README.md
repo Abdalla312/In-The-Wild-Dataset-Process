@@ -20,3 +20,35 @@ Clone this repository and open the Jupyter notebook to follow the steps taken.
 git clone https://github.com/yourusername/In-The-Wild-Dataset-Process.git
 cd In-The-Wild-Dataset-Process
 jupyter notebook In_The_Wild_Dataset_Process.ipynb
+```
+
+## Kaggle Links
+[In The Wild Dataset on Kaggel](https://www.kaggle.com/datasets/abdallamohamed312/in-the-wild-audio-deepfake/data).
+[In The Wild Dataset Process Notebook on Kaggel](https://www.kaggle.com/code/abdallamohamed312/in-the-wild-preparation/notebook?scriptVersionId=187680056).
+
+## Steps Followed
+
+### 1. Downloading the Dataset 
+The dataset was downloaded form [Deepfake Total](https://deepfake-total.com/in_the_wild).
+
+### 2. Extracting the Files 
+The downloaded file had no extension, which caused issues during extraction. 
+
+### 3. Organizing the Files 
+After extraction, we separated the videos into real and fake folders based on their content.
+
+### 4. Creating the kaggle dataset from the outputs of the notebook
+Finally, the organized dataset was uploaded to Kaggle. You can find the dataset and notebook links above.
+
+## Contibutors
+[Abdalla Mohammed](https://github.com/Abdalla312)
+[Mohammed Abdeldayem](https://github.com/abdeldayem02)
+We welcome contributions! Please feel free to submit pull requests or open issues for any suggestions or improvements.
+
+## Licence
+
+This project is licensed under the Apache License, Version 2.0. License - see the LICENSE file for details.
+
+
+
+
